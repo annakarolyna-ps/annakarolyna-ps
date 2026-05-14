@@ -6,36 +6,35 @@
 
 ---
 
-### 🚀 Sobre mim
+## Sobre mim
 
 Sou uma cientista da computação em formação, com foco em **análise de dados** e **automação com Python**. Atuo com desenvolvimento de automações web, análise de dados para geração de relatórios e banco de dados relacional.
 
 ---
 
-### 💻 Linguagens 
+## 💻 Tech Stack & Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
-</div>
+Tenho trabalhado principalmente com **automação web** e **análise de dados** utilizando Python e bancos de dados relacionais.
 
----
-
-### 📌 Projetos em Destaque
-
-- 🔍 [SGA ANATER — Verificador de Relatórios Reprovados](https://github.com/annakarolyna-ps/SGA-ANATER-Reprovados) — Automação web com Python e Playwright para o sistema SGA da ANATER
-- 📊 [Análise Bolsa Família — SQL](https://github.com/annakarolyna-ps/Analise-Bolsa-Familia-SQL) — Análise socioeconômica dos microdados públicos do Novo Bolsa Família com PostgreSQL
-- 🚗 [SagaAgenda — Volkswagen](https://github.com/annakarolyna-ps/SagaAgenda-Volksvagen) — Sistema de agendamento de entregas de veículos
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-6A0DAD?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=r&logoColor=white&color=276DC3" alt="R"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=c&logoColor=white&color=00599C" alt="C"/>
+</p>
 
 ---
 
-### 📬 Contato
+## 📌 Projetos em Destaque
 
-<div> 
-  <a href="https://www.linkedin.com/in/annakarolynaps" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_annaa.ps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:annakarolynaptu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+- 🔍 [SGA ANATER — Verificador de Relatórios Reprovados](https://github.com/annakarolyna-ps/SGA-ANATER-Reprovados ) — Automação web com Python e Playwright para o sistema SGA da ANATER
+- 📊 [Análise Bolsa Família — SQL](https://github.com/annakarolyna-ps/Analise-Bolsa-Familia-SQL ) — Análise socioeconômica dos microdados públicos do Novo Bolsa Família com PostgreSQL
+- 🚗 [SagaAgenda — Volkswagen](https://github.com/annakarolyna-ps/SagaAgenda-Volksvagen ) — Sistema de agendamento de entregas de veículos
+
+---
+<p align="left">
+  <a href="https://www.linkedin.com/in/annakarolynaps" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/_annaa.ps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:annakarolynaptu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
