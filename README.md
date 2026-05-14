@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Anna 
 
 🎓 Graduanda em Ciência da Computação pela Universidade Federal de Uberlândia — UFU  
-💼 Estagiária no Instituto Rede Terra  
+💻 Estagiária no Instituto Rede Terra  
 📍 Uberlândia, MG  
 
 ---
