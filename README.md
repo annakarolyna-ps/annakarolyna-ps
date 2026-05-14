@@ -20,8 +20,6 @@ Sou uma cientista da computação em formação, com foco em **análise de dados
   <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="C" height="40" width="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
-  <img align="center" alt="Playwright" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 </div>
 
 ---
