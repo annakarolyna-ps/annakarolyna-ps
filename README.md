@@ -13,11 +13,13 @@ Atuo com desenvolvimento de automações web, análise de dados para geração d
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=annakarolyna-ps&show_icons=true&hide_border=true&count_private=true&title_color=2D6A4F&icon_color=5C3A21&text_color=5C3A21&bg_color=00000000"/>
+<div align="center">
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=annakarolyna-ps&layout=compact&hide_border=true&title_color=2D6A4F&text_color=5C3A21&bg_color=00000000"/>
-</p>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=annakarolyna-ps&show_icons=true&hide_border=true&count_private=true&title_color=2D6A4F&icon_color=5C3A21&text_color=5C3A21&bg_color=00000000"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=annakarolyna-ps&layout=compact&hide_border=true&title_color=2D6A4F&text_color=5C3A21&bg_color=00000000"/>
+
+</div>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-2D6A4F?style=for-the-badge&logo=python&logoColor=white"/>
