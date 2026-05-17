@@ -6,35 +6,53 @@
 
 ---
 
-## Sobre mim
+### Sobre mim
 
-Sou uma cientista da computação em formação, com foco em **análise de dados** e **automação com Python**. Atuo com desenvolvimento de automações web, análise de dados para geração de relatórios e banco de dados relacional.
+Sou uma cientista da computação em formação, com foco em **análise de dados** e **automação com Python**.  
+Atuo com desenvolvimento de automações web, análise de dados para geração de relatórios e banco de dados relacionais.
 
 ---
 
-## 💻 Tech Stack & Ferramentas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annakarolyna-ps&show_icons=true&hide_border=true&title_color=2D6A4F&icon_color=5C3A21&text_color=4A2C1A&bg_color=00000000"/>
 
-Tenho trabalhado principalmente com **automação web** e **análise de dados** utilizando Python e bancos de dados relacionais.
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakarolyna-ps&layout=compact&hide_border=true&title_color=2D6A4F&text_color=4A2C1A&bg_color=00000000"/>
+</p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-6A0DAD?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=r&logoColor=white&color=276DC3" alt="R"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=c&logoColor=white&color=00599C" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-2D6A4F?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/PostgreSQL-5C3A21?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/R-2D6A4F?style=for-the-badge&logo=r&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Java-5C3A21?style=for-the-badge&logo=java&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/C-2D6A4F?style=for-the-badge&logo=c&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Playwright-5C3A21?style=for-the-badge&logo=playwright&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Git-2D6A4F?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Projetos em Destaque
+### 📫 Contato
 
-- 🔍 [SGA ANATER — Verificador de Relatórios Reprovados](https://github.com/annakarolyna-ps/SGA-ANATER-Reprovados ) — Automação web com Python e Playwright para o sistema SGA da ANATER
-- 📊 [Análise Bolsa Família — SQL](https://github.com/annakarolyna-ps/Analise-Bolsa-Familia-SQL ) — Análise socioeconômica dos microdados públicos do Novo Bolsa Família com PostgreSQL
-- 🚗 [SagaAgenda — Volkswagen](https://github.com/annakarolyna-ps/SagaAgenda-Volksvagen ) — Sistema de agendamento de entregas de veículos
-
----
 <p align="left">
-  <a href="https://www.linkedin.com/in/annakarolynaps" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/_annaa.ps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:annakarolynaptu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/annakarolynaps" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1B4332">
+  </a>
+
+  <a href="https://instagram.com/_annaa.ps" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-5C3A21?style=for-the-badge&logo=instagram&logoColor=white&labelColor=3E2723">
+  </a>
+
+  <a href="mailto:annakarolynaptu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1B4332">
+  </a>
+
+  <a href="https://github.com/annakarolyna-ps">
+    <img src="https://img.shields.io/badge/GitHub-5C3A21?style=for-the-badge&logo=github&logoColor=white&labelColor=3E2723">
+  </a>
 </p>
