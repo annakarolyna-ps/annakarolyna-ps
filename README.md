@@ -24,7 +24,6 @@ Sou uma cientista da computação em formação, com foco em análise de dados e
   <img src="https://img.shields.io/badge/R-C4B5FD?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-D1D5DB?style=for-the-badge&logo=java&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-A78BFA?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-E5E7EB?style=for-the-badge&logo=playwright&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-A78BFA?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
