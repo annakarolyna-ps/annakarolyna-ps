@@ -140,6 +140,5 @@ Aplicação desktop em Python para catalogar e acompanhar minha jornada de leitu
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:a78bfa,50:171117,100:0d0d0d&section=footer)
 
-*Feito com código, curiosidade e um toque de lilás. 💜*
 
 </div>
