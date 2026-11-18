@@ -16,7 +16,7 @@
 
 </div>
 
-Sou **graduanda em Ciência da Computação pela Universidade Federal de Uberlândia (UFU)** e **estagiária no Instituto Rede Terra**, com foco em **análise de dados e automação com Python**.
+Sou **graduanda em Ciência da Computação pela Universidade Federal de Uberlândia (UFU)** e **estagiária no Instituto Rede Terra**, com foco em **análise de dados e automações**.
 
 Atuo com desenvolvimento de **automações web**, **análise de dados para geração de relatórios** e **bancos de dados relacionais**, sempre buscando transformar processos manuais em soluções rápidas e confiáveis.
 
