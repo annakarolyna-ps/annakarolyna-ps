@@ -20,13 +20,6 @@ Sou **graduanda em Ciência da Computação pela Universidade Federal de Uberlâ
 
 Atuo com desenvolvimento de **automações web**, **análise de dados para geração de relatórios** e **bancos de dados relacionais**, sempre buscando transformar processos manuais em soluções rápidas e confiáveis.
 
-Atualmente, meu principal foco está em:
-
-- 🐍 Desenvolvimento em **Python**
-- 🤖 Automações web com **Playwright**
-- 📊 Análise de dados e geração de relatórios
-- 🗄️ Modelagem e consultas em **PostgreSQL**
-- 🧩 Engenharia e modelagem de software
 
 📍 Uberlândia, MG
 
